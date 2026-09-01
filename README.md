@@ -1,3 +1,5 @@
+#Author -- Manohar P
+<br>
 # TaskMaster — Interactive JavaScript Logic & State Management To-Do Application
 
 **Thiranex Web Development Internship — Task 3**
